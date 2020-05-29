@@ -10,9 +10,13 @@ Initial Security()
  //Sample Code
 }
 {
+<<<<<<< HEAD
+
 Feature1()
-}
-{
+
+=======
 Feature2()
+
+>>>>>>> Feature2
 }
 }
